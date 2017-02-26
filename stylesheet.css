@@ -8,3 +8,14 @@
   width: 100%;
   position: absolute;
 }
+
+.google {
+  margin-top: 20px;
+  float: left;
+
+}
+.bing {
+  
+  margin-top: 20px;
+  float: right;
+}
