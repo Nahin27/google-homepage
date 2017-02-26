@@ -15,7 +15,25 @@
 
 }
 .bing {
-  
+
   margin-top: 20px;
   float: right;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+
+}
+li {
+  display:inline;
+  float:right;
+
+}
+li a {
+  display: block;
+  padding: 15px 20px 15px 20px;
+  text-decoration: none;
+  color: black;
+  
 }
